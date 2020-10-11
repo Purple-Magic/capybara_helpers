@@ -1,4 +1,4 @@
-# Capybara::Helpers
+# CapybaraHelpers
 
 Gem adds some useful features for capybara.
 
@@ -32,7 +32,12 @@ Also you can get parent node by level number
 find('some_selector').parent_node level: 3
 ```
 
+## Development
+
+### Todo
+
+* [ ] Write tests
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/capybara-helpers.
-
