@@ -16,6 +16,12 @@ And then execute:
 
     $ bundle install
     
+*spec/spec_helper.rb*
+
+```ruby
+require 'capybara_helpers'
+```
+
 ## Usage
 
 ### Parent node
